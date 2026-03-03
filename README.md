@@ -1,4 +1,4 @@
-# 论文笔记：基于随机小波扩展的数据增强方法及其在航空液压泵小样本故障诊断中的应用
+# 论文笔记：基于随机小波扩展的数据增强方法 (RWE)
 
 > **Paper Title**: Data Augmentation via Randomized Wavelet Expansion and Its Application in Few-Shot Fault Diagnosis of Aviation Hydraulic Pumps
 > 
